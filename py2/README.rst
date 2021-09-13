@@ -30,7 +30,7 @@ Installation
 
 ::
 
-    pip install roPerf
+   pip install roPerf
 
 See Also
 ========
